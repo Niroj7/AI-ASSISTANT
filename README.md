@@ -26,18 +26,14 @@ Perfect for **recruiters, students, developers, and data enthusiasts** exploring
 ## 🖼️ **Screenshots**
 
 ### 🧠 Chat Interface  
-A clean, modern interface for AI conversations.  
-![Chat Screenshot](screenshots/chat.png)
+A clean, modern interface for AI conversations. 
+<img width="1296" height="509" alt="AI INTERFACE" src="https://github.com/user-attachments/assets/4b66ffa4-1f31-46fa-8c31-efa9efb0dd70" />
 
-### 📊 CSV Analyzer  
-Upload CSV files and get instant insights.  
-![CSV Screenshot](screenshots/csv.png)
 
-### 📂 File Reader  
-Analyze TXT & PDF files with automatic summarization.  
-![File Reader Screenshot](screenshots/filereader.png)
+### Chat Example  
+Ask any Question to get an instant answer.  
+<img width="1256" height="869" alt="EXAMPLE CHAT BOT" src="https://github.com/user-attachments/assets/66ca6469-7ae2-4f68-9e36-401d468b278b" />
 
-> ℹ️ *Replace the image paths above with your actual GitHub image URLs after uploading them.*
 
 ---
 
@@ -115,6 +111,7 @@ GROQ_API_KEY=your_api_key_here
 ```
 streamlit run app.py
 ```
+## 🎉 **Thank you for viewing this project — happy learning and exploring! 🚀**
 
 
 
