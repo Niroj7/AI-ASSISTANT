@@ -23,6 +23,24 @@ Perfect for **recruiters, students, developers, and data enthusiasts** exploring
 
 ---
 
+## 🖼️ **Screenshots**
+
+### 🧠 Chat Interface  
+A clean, modern interface for AI conversations.  
+![Chat Screenshot](screenshots/chat.png)
+
+### 📊 CSV Analyzer  
+Upload CSV files and get instant insights.  
+![CSV Screenshot](screenshots/csv.png)
+
+### 📂 File Reader  
+Analyze TXT & PDF files with automatic summarization.  
+![File Reader Screenshot](screenshots/filereader.png)
+
+> ℹ️ *Replace the image paths above with your actual GitHub image URLs after uploading them.*
+
+---
+
 ## ✨ **Features**
 
 ### 💬 **AI Chat Interface**
@@ -30,19 +48,19 @@ Perfect for **recruiters, students, developers, and data enthusiasts** exploring
 - Fast responses with memory support
 
 ### 📂 **File Reader Module**
-- Supports TXT & PDF
+- Supports TXT & PDF  
 - Extracts and summarizes text automatically
 
 ### 📊 **CSV Analyzer**
-- Dataset preview
-- Missing value detection
-- Column-level insights
-- Automated summary & interpretation
+- Dataset preview  
+- Missing value detection  
+- Column-level insights  
+- Automated summary & interpretation  
 
 ### 🎨 **Modern UI/UX**
-- Styled chat bubbles
-- Sidebar shortcuts
-- Clean layout and responsive design
+- Styled chat bubbles  
+- Sidebar shortcuts  
+- Clean layout and responsive design  
 
 ---
 
@@ -58,6 +76,10 @@ Perfect for **recruiters, students, developers, and data enthusiasts** exploring
 | **dotenv** | Environment variable handling |
 
 ---
+
+## 📁 **Project Structure**
+
+
 
 ## 📁 **Project Structure**
 ```
