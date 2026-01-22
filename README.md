@@ -7,7 +7,7 @@ A smart, fast, and interactive **LLM-powered assistant** with file reading, CSV 
 ## 🔗 **Live Demo**
 👉 https://ai-assistant-mheejbemf6k6ydedq3aql7.streamlit.app/
 
----
+------------------
 
 ## 🚀 **Overview**
 
