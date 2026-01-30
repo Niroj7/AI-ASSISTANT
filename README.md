@@ -2,12 +2,12 @@
 
 A smart, fast, and interactive **LLM-powered assistant** with file reading, CSV analysis, and conversation memory — built using **Streamlit + Groq API**.
 
----
+--------------------
 
 ## 🔗 **Live Demo**
 👉 https://ai-assistant-mheejbemf6k6ydedq3aql7.streamlit.app/
 
-------------------
+---------------------
 
 ## 🚀 **Overview**
 
