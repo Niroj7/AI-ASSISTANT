@@ -9,7 +9,7 @@ A smart, fast, and interactive **LLM-powered assistant** with file reading, CSV 
 
 ---------------------
 
-## 🚀 **Overview**
+## 🚀 **Overview**-
 
 The **AI Chat Assistant** is a modern Streamlit application that enables users to:
 
