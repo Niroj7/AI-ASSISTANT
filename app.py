@@ -6,7 +6,7 @@ import time
 import PyPDF2
 
 # -------------------------------
-# LOAD API KEY
+# LOADING API KEY
 # -------------------------------
 load_dotenv()
 api_key = os.getenv("GROQ_API_KEY")
